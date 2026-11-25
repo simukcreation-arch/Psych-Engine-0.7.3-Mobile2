@@ -50,7 +50,7 @@
       "name": "hxcpp",
       "type": "git",
       "dir": null,
-      "ref": "master",
+      "ref": null,
       "url": "https://github.com/FunkinCrew/hxcpp"
     },
     {
